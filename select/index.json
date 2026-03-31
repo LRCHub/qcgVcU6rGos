@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "AM11:00",
+  "base_artist": "高木さん(CV:高橋李依)",
+  "createdAt": "2026-03-31T13:25:43.489098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "AM11:00",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/01_AM11_00_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "AM11:00",
+      "artist": "高木さん(CV:Rie Takahashi)",
+      "has_synced": true,
+      "path": "select/02_AM11_00_高木さん(CV_Rie_Takahashi).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "AM11:00",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/03_AM11_00_HY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "AM11:00",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/04_AM11_00_HY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "AM11:00 (Rerecorded)",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/05_AM11_00_(Rerecorded)_HY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "AM11:00",
+      "artist": "Matt Cab",
+      "has_synced": true,
+      "path": "select/06_AM11_00_Matt_Cab.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "AM11:00",
+      "artist": "高木さん(CV.高橋李依)",
+      "has_synced": true,
+      "path": "select/07_AM11_00_高木さん(CV.高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "AM11:00",
+      "artist": "高木さん (高橋李依)",
+      "has_synced": true,
+      "path": "select/08_AM11_00_高木さん_(高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "AM11-00 (Rerecorded)",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/09_AM11-00_(Rerecorded)_HY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "3 AM11:00",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/10_3_AM11_00_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "AM11:00 (Rerecorded 2018)",
+      "artist": "Hy",
+      "has_synced": false,
+      "path": "select/11_AM11_00_(Rerecorded_2018)_Hy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AM11:00",
+      "artist": "高木さん(高橋李依)",
+      "has_synced": false,
+      "path": "select/pl_01_AM11_00_高木さん(高橋李依).txt"
+    }
+  ]
+}
